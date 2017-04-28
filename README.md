@@ -3,4 +3,5 @@ Crashes Chrome/Safari/almost any modern browser (or so it's supposed to).  Do no
 
 Instead of just changing the path from ex. example.com/pageone to example.com/pagetwo it creates a string of numbers long enough to either slow the browser until it won't function, or crash."  I also have implemented a fallback that essentially opens up a CPU heavy tab every 0.1 seconds.
 
+<b> Disclaimer </b>
 I (TeamIlluminati) take no responsibility for any damage done in any way by this webpage/application.
